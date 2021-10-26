@@ -1,5 +1,5 @@
 {
-    "self_mode": true,
+    "self_mode": false,
 	"autobio": true,
 	"antihidetag": true,
 	"user_register": true,
@@ -19,7 +19,7 @@
 	"ownername": "Litaa",
 	"botname":"ΛᄂPΉΛ BӨƬ",
 	"img":"https://e.top4top.io/p_2010lz9211.jpg",
-	"thumb":"Alphabot.jpg",
-	"fakethumb":"Alphabot.jpg", 
+	"thumb":"IMG-20211027-WA0048-min.jpg",
+	"fakethumb":"IMG-20211027-WA0048-min.jpg", 
 	"fake": " 「  Alphabot  」\nCreated By Litaa"
 }
