@@ -2,7 +2,7 @@
     "self_mode": false,
 	"autobio": true,
 	"antihidetag": true,
-	"user_register": true,
+	"user_register": false,
 	"antidelete" : false,
 	"anticall": true,
 	"prefix": ".",
