@@ -5,6 +5,7 @@ RUN apt-get update && \
   neofetch \
   chromium \
   ffmpeg \
+  webp \
   wget \
   mc \
   imagemagick && \
